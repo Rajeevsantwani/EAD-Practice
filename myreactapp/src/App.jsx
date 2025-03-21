@@ -1,12 +1,10 @@
 import './App.css'
-
+import Form from './Form'
 function App() {
 
   return (
     <>
-      <div className="container">
-        <h1>Rajeev</h1>
-        </div>     
+        <Form />
     </>
   )
 }
